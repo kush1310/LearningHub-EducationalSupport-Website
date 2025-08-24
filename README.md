@@ -36,3 +36,25 @@
 
 ---
 
+## 📂 Folder Structure
+
+```plaintext
+LearningHub/
+├── .vscode/          # VS Code settings (not required for deployment)
+├── css/              # Contains style.css (main styling of pages)
+├── html/             # Contains all HTML pages
+├── images/           # Images, icons, and graphics
+├── samplePapers/     # Sample papers, assignments, previous year questions
+├── subjects/         # Subject-wise notes and study material
+├── script.js         # JavaScript for interactivity
+└── README.md         # Project documentation
+```
+---
+
+### Author  
+--- Kush Amit Shah  
+--- Diploma in Computer Engineering  
+--- B.Tech (Pursuing)
+--- Gujarat, India  
+--- Mail: kushshah900@gmail.com  
+--- Interests: Cybersecurity | Web Development | Logical Programming  
